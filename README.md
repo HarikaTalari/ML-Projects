@@ -1,2 +1,2 @@
-Created a model for House prediction
-Beginning ML with this small model for House prediction.
+Welcome to my Machine Learning Projects repository!
+This space is dedicated to storing everything I’m learning on my ML journey — from basic concepts to real-world project implementations.
